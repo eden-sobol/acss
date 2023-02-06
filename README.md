@@ -6,6 +6,12 @@ download and unzip avcss-v1.0.zip
 place avcss-v1.0.zip.css and avcss-v1.0.zip.js into your root directory
 in html, add &lt;script src="avcss-v1.0.js">&lt;/script> to your head
 
+OR
+
+run npm install avcss
+in html, add &lt;script src="your project folder/node_modules/avcss/avcss-v1.0.js">&lt;/script>
+for most cases: &lt;script src="./node_modules/avcss/avcss-v1.0.js">&lt;/script>
+
 
 to use:
 you can add attributes to elements
