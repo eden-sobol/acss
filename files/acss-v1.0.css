@@ -1,0 +1,204 @@
+@keyframes sil {
+	0% {
+		opacity: 0;
+		transform: translateX(-100%);
+	}
+	100% {
+		opacity: 1;
+		transform: translateX(0);
+	}
+}
+@keyframes sir {
+	0% {
+		opacity: 0;
+		transform: translateX(100%);
+	}
+	100% {
+		opacity: 1;
+		transform: translateX(0);
+	}
+}
+@keyframes sit {
+	0% {
+		opacity: 0;
+		transform: translateY(-100%);
+	}
+	100% {
+		opacity: 1;
+		transform: translateY(0);
+	}
+}
+@keyframes sib {
+	0% {
+		opacity: 0;
+		transform: translateY(100%);
+	}
+	100% {
+		opacity: 1;
+		transform: translateY(0);
+	}
+}
+@keyframes sol {
+	100% {
+		opacity: 0;
+		transform: translateX(-100%);
+	}
+	0% {
+		opacity: 1;
+		transform: translateX(0);
+	}
+}
+@keyframes sor {
+	100% {
+		opacity: 0;
+		transform: translateX(100%);
+	}
+	0% {
+		opacity: 1;
+		transform: translateX(0);
+	}
+}
+@keyframes sot {
+	100% {
+		opacity: 0;
+		transform: translateY(-100%);
+	}
+	0% {
+		opacity: 1;
+		transform: translateY(0);
+	}
+}
+@keyframes sob {
+	100% {
+		opacity: 0;
+		transform: translateY(100%);
+	}
+	0% {
+		opacity: 1;
+		transform: translateY(0);
+	}
+}
+@keyframes fi {
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+}
+@keyframes fo {
+	0% {
+		opacity: 1;
+	}
+	100% {
+		opacity: 0;
+	}
+}
+
+[a] {
+	top: 0px;
+	left: 0px;
+	margin: 0px;
+	position: absolute;
+	width: max-content;
+}
+
+/* text colors */
+[t-bl] {
+	color: black;
+}
+[t-si] {
+	color: silver;
+}
+[t-gr] {
+	color: gray;
+}
+[t-wh] {
+	color: white;
+}
+[t-ma] {
+	color: maroon;
+}
+[t-re] {
+	color: red;
+}
+[t-pu] {
+	color: purple;
+}
+[t-fu] {
+	color: fuchsia;
+}
+[t-gr] {
+	color: green;
+}
+[t-li] {
+	color: lime;
+}
+[t-ol] {
+	color: olive;
+}
+[t-ye] {
+	color: yellow;
+}
+[t-na] {
+	color: navy;
+}
+[t-bl] {
+	color: blue;
+}
+[t-te] {
+	color: teal;
+}
+[t-aq] {
+	color: aqua;
+}
+
+/* background colors */
+[b-bl] {
+	background-color: black;
+}
+[b-si] {
+	background-color: silver;
+}
+[b-gr] {
+	background-color: gray;
+}
+[b-wh] {
+	background-color: white;
+}
+[b-ma] {
+	background-color: maroon;
+}
+[b-re] {
+	background-color: red;
+}
+[b-pu] {
+	background-color: purple;
+}
+[b-fu] {
+	background-color: fuchsia;
+}
+[b-gr] {
+	background-color: green;
+}
+[b-li] {
+	background-color: lime;
+}
+[b-ol] {
+	background-color: olive;
+}
+[b-ye] {
+	background-color: yellow;
+}
+[b-na] {
+	background-color: navy;
+}
+[b-bl] {
+	background-color: blue;
+}
+[b-te] {
+	background-color: teal;
+}
+[b-aq] {
+	background-color: aqua;
+}
