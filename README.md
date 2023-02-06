@@ -20,5 +20,5 @@ you can do top, left, bottom, right, border, border radius, and position: &lt;p 
 you can do t-c="color" or b-c="color" instead of the pre-set colors.
 
 you can mix them, for example,
-&lt;p a t-si b-bl position="relative" top="20px" left="10px" f-bw="2px" f-bc="red" fs="3rem" b="5px solid green" br="15px">mixed&lt;/p> will provide:
+&lt;p a t-si b-bl position="relative" top="20px" left="10px" f-bw="2px" f-bc="red" fs="3rem" b="5px solid green" br="15px">mixed&lt;/p> will provide:<br>
 <img src="https://i.imgur.com/Tv9sTIe.png">
