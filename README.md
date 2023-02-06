@@ -18,5 +18,5 @@ you can add attributes to elements
 you can also do top, left, bottom, right, border, border radius, and position: <code><p top="20px" position="relative", b="5px solid black">down from top with border</p></code>
 
 you can mix them, for example,
-<code><p a t-si b-bl position="relative" top="20px" left="10px" f-bw="2px" f-bc="red" fs="3rem" b="5px solid green" br="15px">mixed</p></code> will provide:
+&lt;p a t-si b-bl position="relative" top="20px" left="10px" f-bw="2px" f-bc="red" fs="3rem" b="5px solid green" br="15px">mixed</p> will provide:
 <img src="https://i.imgur.com/Tv9sTIe.png">
