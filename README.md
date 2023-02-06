@@ -22,3 +22,16 @@ you can do t-c="color" or b-c="color" instead of the pre-set colors.
 you can mix them, for example,
 &lt;p a t-si b-bl position="relative" top="20px" left="10px" f-bw="2px" f-bc="red" fs="3rem" b="5px solid green" br="15px">mixed&lt;/p> will provide:<br>
 <img src="https://i.imgur.com/Tv9sTIe.png">
+
+<br><br>
+also, there are some built in animations you can add like this by using the css animation property, and selecting:
+sil (slide in left)
+sir (slide in right)
+sit (slide in top)
+sib (slide in bottom)
+sol (slide out left)
+sor (slide out right)
+sot (slide out top)
+sob (slide out bottom)
+fi (fade in)
+fo (fade out)
