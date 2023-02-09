@@ -1,7 +1,7 @@
 window.onload = function() {
 	const link = document.createElement("link")
 	link.rel = "stylesheet"
-	link.href = "./node_modules/acss/acss-v1.0.css"
+	link.href = "/acss-v1.0.css"
 	
 	const head = document.querySelector("head")
 	const script = document.querySelector("script")
